@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = train_model
+build_property.ProjectDir = /Users/josemiguel/Documents/Code/AI/Azure/AI-102-AIEngineer/21-custom-form/C-Sharp/train-model/

@@ -1,0 +1,14 @@
+# List keys for service account
+az cognitiveservices account keys list --name cogservices-sa --resource-group ia-cognitiveservices-rg
+
+# Make a post call
+curl -X POST "https://cogservices-sa.cognitiveservices.azure.com/text/analytics/v3.0/languages?" \
+    -H "Content-Type: application/json" -H "Ocp-Apim-Subscription-Key: c96de56d12a24f03ac72b3c4c7bc922e" \ 
+    --data-ascii "{'documents':[{'id':1,'text':'hello'}]}"
+
+# Regenerate keys ***
+az cognitiveservices account keys regenerate --name <resourceName> --resource-group <resourceGroup> --key-name key1
+
+#  Add service plan
+az ad sp create-for-rbac -n "api://cogservices-sp" --role owner \
+    --scopes subscriptions/f700b9ad-827f-4370-abc2-dfabe6e4f870/resourceGroups/ia-cognitiveservices-rg
