@@ -17,23 +17,8 @@
   "RootNamespace": "search_client",
   "Documents": [
     {
-      "FilePath": "/Users/josemiguel/Documents/Code/AI/Azure/AI-102-AIEngineer/22-Create-a-search-solution/C-Sharp/margies-travel/Pages/Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "/Users/josemiguel/Documents/Code/AI/Azure/AI-102-AIEngineer/22-Create-a-search-solution/C-Sharp/margies-travel/Pages/Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/josemiguel/Documents/Code/AI/Azure/AI-102-AIEngineer/22-Create-a-search-solution/C-Sharp/margies-travel/Pages/Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/josemiguel/Documents/Code/AI/Azure/AI-102-AIEngineer/22-Create-a-search-solution/C-Sharp/margies-travel/Pages/_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -42,13 +27,28 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/josemiguel/Documents/Code/AI/Azure/AI-102-AIEngineer/22-Create-a-search-solution/C-Sharp/margies-travel/Pages/Shared/_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "/Users/josemiguel/Documents/Code/AI/Azure/AI-102-AIEngineer/22-Create-a-search-solution/C-Sharp/margies-travel/Pages/Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/josemiguel/Documents/Code/AI/Azure/AI-102-AIEngineer/22-Create-a-search-solution/C-Sharp/margies-travel/Pages/_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/josemiguel/Documents/Code/AI/Azure/AI-102-AIEngineer/22-Create-a-search-solution/C-Sharp/margies-travel/Pages/Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "/Users/josemiguel/Documents/Code/AI/Azure/AI-102-AIEngineer/22-Create-a-search-solution/C-Sharp/margies-travel/Pages/_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/josemiguel/Documents/Code/AI/Azure/AI-102-AIEngineer/22-Create-a-search-solution/C-Sharp/margies-travel/Pages/Shared/_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     }
   ],
